@@ -1,4 +1,8 @@
-- **se** ho foto da modificare
+#gruppo-7
+
+**apri instagram**
+
+​- **se** ho foto da modificare
   - prendi una foto
     - **se non**è migliorabile
       - scarta quindi torna a _**se** ho foto da modificare_
