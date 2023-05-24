@@ -1,6 +1,6 @@
 #gruppo-7
 
-**apri instagram**
+-**apri instagram**
 
 ​- **se** ho foto da modificare
   - prendi una foto
